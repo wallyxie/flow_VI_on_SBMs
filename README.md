@@ -1,4 +1,4 @@
-# Code for "A framework for variational inference on soil biogeochemical models featuring state space approximation by normalizing flows."
+# Code for "A framework for variational inference on soil biogeochemical models featuring state space approximation by normalizing flows" by Hua Xie, Debora Sujono, Tom Ryder, Erik Sudderth, and Steven Allison.
 
 This repository contains the following:
 
