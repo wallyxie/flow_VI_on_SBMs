@@ -8,3 +8,5 @@ This repository contains the following:
 * The synthetic data sets generated from the notebooks that our experiments were conditioned on in the `generated_data` folder.
 
 To run the code in its exact state, a CUDA device running CUDA version >= 10.2 with VRAM of 16 GB is needed. If GPU requirement is fulfilled, running the code is as simple as downloading the repository and then running any `learn_theta....py` script corresponding to your experiment of interest.
+
+If running a training script, `training_plots` and `training_pt_outputs` folders should be created to prepare for the saving of experiment plots and outputs.
